@@ -1,3 +1,3 @@
-module github.com/openshift-for-developers/hello
+module github.com/enigmatic722/hello.git
 
 go 1.16
